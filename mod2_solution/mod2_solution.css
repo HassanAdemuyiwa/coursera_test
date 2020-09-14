@@ -21,7 +21,7 @@
   }
   
   .section {
-    border: 1px solid black;
+    border: 3px solid black;
     background-color: gray;
     margin: 25px;
     color: white;
@@ -37,13 +37,15 @@
   }
   
   .menu1 {
-      background-color: blue;
+      background-color: magenta;
+      color: black;
   }
   .menu2 {
       background-color: red;
   }
   .menu3 {
-      background-color: green;
+      background-color: yellow;
+      color: black;
   }
   
   /* Simple Responsive Framework. */
