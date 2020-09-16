@@ -25,13 +25,21 @@ border: 1px solid black;
 background-color: gray;
 margin: 50px 0 25px 0;
 color: black;
-height: 1000px;
+position: relative;
+
+}
+.chicken-menu{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+
 }
 
 
 
 .row {
 width: 100%;
+margin: auto !important;
 }
 
 /* *********Nav-Bar****** */
